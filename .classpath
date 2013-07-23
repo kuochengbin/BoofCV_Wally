@@ -2,11 +2,15 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/BoofCV_OpenKinect.jar"/>
+	<classpathentry kind="lib" path="lib/BoofCV_V4L4J.jar"/>
 	<classpathentry kind="lib" path="lib/BoofCV.jar"/>
 	<classpathentry kind="lib" path="lib/BoofCVAndroid.jar"/>
 	<classpathentry kind="lib" path="lib/BoofCVXuggler.jar"/>
 	<classpathentry kind="lib" path="lib/DDogleg.jar"/>
 	<classpathentry kind="lib" path="lib/EJML.jar"/>
 	<classpathentry kind="lib" path="lib/GeoRegression.jar"/>
+	<classpathentry kind="lib" path="lib/libpja.jar"/>
+	<classpathentry kind="lib" path="lib/xstream-1.4.4.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
